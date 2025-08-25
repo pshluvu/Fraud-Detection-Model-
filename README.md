@@ -27,3 +27,14 @@ This project detects fraudulent transactions using **Logistic Regression, Random
 - Achieved high F1= 0.7284 and ROC-AUC= 0.3810  scores, minimizing false positives and negatives.
 - XGBoost performed best in identifying fraudulent transactions.
 
+## Screenshots
+
+### ROC Curve
+![ROC Curve](visuals/roc_curves.png)
+
+### Confusion Matrix
+![Confusion Matrix](visuals/confusion_matrices.png)
+
+## Video Demo
+[![Watch the Demo](visuals/video_thumbnail.png)](https://www.youtube.com/watch?v=YOUR_VIDEO_LINK)
+
