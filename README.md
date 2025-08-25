@@ -33,7 +33,7 @@ This project detects fraudulent transactions using **Logistic Regression, Random
 ![ROC Curve](visuals/roc_curves.png)
 
 ### Confusion Matrix
-![Confusion Matrix](visuals/confusion_matrices.png)
+![Confusion Matrix](visuals/confusion_matrix.png)
 
 ## Video Demo
 [![Watch the Demo](visuals/video_thumbnail.png)](https://www.youtube.com/watch?v=YOUR_VIDEO_LINK)
